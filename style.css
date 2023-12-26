@@ -1,0 +1,60 @@
+footer{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+    
+}
+h1{
+    color: darkred;
+    font-weight: bolder;
+    text-align: left;
+}
+html{
+    background-color: black;
+}
+p{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.list{
+    color: aliceblue;
+    text-align: left;
+}
+.free{
+    color: rgb(125, 35, 35);
+    text-align: left;
+    font-weight: bolder;
+    font-size: large;
+}
+#wym{
+    color: whitesmoke;
+    font-weight: lighter;
+
+}
+#welcome{
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: left>;
+}
+#special{
+    color: darkred;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.sections{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+#home{
+    color: darkred;
+    text-align: end;
+}
+a{
+    color: darkred;
+}
+li{
+    text-align: start;
+}
